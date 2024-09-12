@@ -5,17 +5,29 @@ body {
 	color: #480062;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-h1{
+h1 {
 	color: #480062;
 	text-shadow: 1px 5px 6px #da40b9;
+    
+}
+h2 {
+    text-shadow: 1px -5px 4px #da40b9;
+    
+}
+ol {
+    text-align: left;
 }
 
-header{
+header {
     float: left;
-
 }  
-article, life {
-    float: right;
+article {
     padding-left: 30em ;
-    text-align: center;
+    padding-top: 10em;
+     text-align: center;
 } 
+life {
+    margin: 50em;
+    text-align: center;
+    
+}
