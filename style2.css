@@ -1,0 +1,21 @@
+body {
+    background-image: url("background.jpg");
+	margin: 2em;; 
+    	padding: 0;
+	color: #480062;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+	color: #480062;
+	text-shadow: 1px 5px 6px #da40b9;
+}
+
+header{
+    float: left;
+
+}  
+article, life {
+    float: right;
+    padding-left: 30em ;
+    text-align: center;
+} 
