@@ -5,6 +5,10 @@ body {
 	color: #480062;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+p {
+    background-color: #f9e6f3;
+    
+}
 h1 {
 	color: #480062;
 	text-shadow: 1px 5px 6px #da40b9;
@@ -27,7 +31,12 @@ article {
      text-align: center;
 } 
 life {
-    margin: 50em;
+    float: right;
+    margin-left: 30em;
+    margin-right: 10em;
     text-align: center;
     
+}
+footer {
+    float: left;
 }
